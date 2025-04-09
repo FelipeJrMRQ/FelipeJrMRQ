@@ -16,7 +16,3 @@ Sempre buscando melhorar, explorar novas tecnologias e contribuir com projetos i
 
 ---
 
-📫 **Vamos nos conectar:**
-- 💼 [Meu LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione o link real)*
-- 🌍 [Meu Portfólio](https://felipemarques.github.io) *(se você tiver)*
-
