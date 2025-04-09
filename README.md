@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Felipe Marques
 
-<!--
-**FelipeJrMRQ/FelipeJrMRQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor full stack com 5 anos de experiência em tecnologias modernas.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que trabalho:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟧 Java & Spring Framework
+- 🌐 Angular & TypeScript
+- 🎨 HTML, CSS & boas práticas de UI/UX
+
+## 🚀 Sobre mim
+
+Sou apaixonado por programação, aprendizado contínuo e por criar soluções que fazem a diferença.
+
+Sempre buscando melhorar, explorar novas tecnologias e contribuir com projetos incríveis.
+
+---
+
+📫 **Vamos nos conectar:**
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione o link real)*
+- 🌍 [Meu Portfólio](https://felipemarques.github.io) *(se você tiver)*
+
