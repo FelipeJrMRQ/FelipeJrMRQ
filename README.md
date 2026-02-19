@@ -1,18 +1,66 @@
-# 👋 Olá! Eu sou o Felipe Marques
+👋 Olá! Eu sou o Felipe Marques
 
-🎯 Desenvolvedor full stack com 5 anos de experiência em tecnologias modernas.
+💻 Desenvolvedor Full Stack | Java • Spring • Angular
+🚀 Criando soluções robustas, escaláveis e orientadas a resultados
 
-## 💻 Tecnologias que trabalho:
+🧠 Sobre mim
 
-- 🟧 Java & Spring Framework
-- 🌐 Angular & TypeScript
-- 🎨 HTML, CSS & boas práticas de UI/UX
+Sou desenvolvedor full stack com forte atuação em backend com Java e Spring e frontend com Angular e TypeScript.
 
-## 🚀 Sobre mim
+Tenho experiência na construção de aplicações corporativas, APIs REST, sistemas escaláveis e interfaces modernas focadas em performance e experiência do usuário.
 
-Sou apaixonado por programação, aprendizado contínuo e por criar soluções que fazem a diferença.
+Sou movido por:
 
-Sempre buscando melhorar, explorar novas tecnologias e contribuir com projetos incríveis.
+📚 Aprendizado contínuo
 
----
+🧩 Resolução de problemas complexos
+
+🏗️ Arquitetura limpa e boas práticas
+
+🤝 Trabalho em equipe e colaboração
+
+🛠️ Stack Principal
+🔹 Backend
+
+Java
+
+Spring Boot
+
+JPA / Hibernate
+
+APIs REST
+
+Arquitetura em camadas
+
+🔹 Frontend
+
+Angular
+
+TypeScript
+
+HTML5 & CSS3
+
+Responsividade & UI/UX
+
+🔹 Boas práticas
+
+Clean Code
+
+SOLID
+
+Versionamento com Git
+
+Metodologias Ágeis
+
+📌 O que você vai encontrar aqui
+
+Projetos Full Stack
+
+APIs REST
+
+Aplicações com Angular
+
+Estudos e experimentos técnicos
+
+Evolução contínua 🚀
 
