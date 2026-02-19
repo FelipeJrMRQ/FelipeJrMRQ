@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Felipe Marques
+#👋 Olá! Eu sou o Felipe Marques
 
 💻 Desenvolvedor Full Stack | Java • Spring • Angular
 🚀 Criando soluções robustas, escaláveis e orientadas a resultados
