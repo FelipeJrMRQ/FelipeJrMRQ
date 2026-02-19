@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Felipe Marques</h1>
+<h1 align="center">👋Felipe Marques</h1>
 
 <h2 align="center">🚀 Desenvolvedor Full Stack</h2>
 
