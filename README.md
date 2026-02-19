@@ -4,7 +4,7 @@
 
 <p align="center">
 💻 <strong>Java • Spring Boot • Angular • TypeScript</strong><br>
-🎯 5+ anos criando soluções robustas e escaláveis
+🎯 Criando soluções robustas e escaláveis
 </p>
 
 <hr>
