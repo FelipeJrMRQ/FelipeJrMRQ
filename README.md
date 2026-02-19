@@ -1,66 +1,42 @@
-#👋 Olá! Eu sou o Felipe Marques
+<h1 align="center">👋 Olá! Eu sou o Felipe Marques</h1>
 
-💻 Desenvolvedor Full Stack | Java • Spring • Angular
-🚀 Criando soluções robustas, escaláveis e orientadas a resultados
+<h2 align="center">🚀 Desenvolvedor Full Stack</h2>
 
-🧠 Sobre mim
+<p align="center">
+💻 <strong>Java • Spring Boot • Angular • TypeScript</strong><br>
+🎯 5+ anos criando soluções robustas e escaláveis
+</p>
 
-Sou desenvolvedor full stack com forte atuação em backend com Java e Spring e frontend com Angular e TypeScript.
+<hr>
 
-Tenho experiência na construção de aplicações corporativas, APIs REST, sistemas escaláveis e interfaces modernas focadas em performance e experiência do usuário.
+<h2>🧠 Sobre mim</h2>
 
-Sou movido por:
+<p>
+Sou desenvolvedor full stack com forte atuação em backend com <strong>Java e Spring</strong> 
+e frontend com <strong>Angular e TypeScript</strong>.
+</p>
 
-📚 Aprendizado contínuo
+<p>
+Tenho experiência na construção de APIs REST, sistemas corporativos e aplicações escaláveis
+com foco em performance e boas práticas.
+</p>
 
-🧩 Resolução de problemas complexos
+<ul>
+<li>📚 Aprendizado contínuo</li>
+<li>🧩 Resolução de problemas complexos</li>
+<li>🏗️ Arquitetura limpa</li>
+<li>🤝 Trabalho em equipe</li>
+</ul>
 
-🏗️ Arquitetura limpa e boas práticas
+<hr>
 
-🤝 Trabalho em equipe e colaboração
+<h2>🛠️ Stack Principal</h2>
 
-🛠️ Stack Principal
-🔹 Backend
+<h3>Backend</h3>
+<p>Java • Spring Boot • JPA • Hibernate</p>
 
-Java
+<h3>Frontend</h3>
+<p>Angular • TypeScript • HTML • CSS</p>
 
-Spring Boot
-
-JPA / Hibernate
-
-APIs REST
-
-Arquitetura em camadas
-
-🔹 Frontend
-
-Angular
-
-TypeScript
-
-HTML5 & CSS3
-
-Responsividade & UI/UX
-
-🔹 Boas práticas
-
-Clean Code
-
-SOLID
-
-Versionamento com Git
-
-Metodologias Ágeis
-
-📌 O que você vai encontrar aqui
-
-Projetos Full Stack
-
-APIs REST
-
-Aplicações com Angular
-
-Estudos e experimentos técnicos
-
-Evolução contínua 🚀
-
+<h3>Boas Práticas</h3>
+<p>Clean Code • SOLID • Git • Metodologias Ágeis</p>
